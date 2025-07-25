@@ -1,4 +1,4 @@
-# 🛍️ Smart Shop - Product Listing Page
+# 🛍️ Product Listing Page
 
 Smart Shop is a fully functional, interactive product listing web application developed as part of a web development internship project (Task 4v). It simulates a mini e-commerce site where users can browse products, search, filter, sort, and manage a shopping cart — all built with HTML, CSS, and JavaScript.
 
